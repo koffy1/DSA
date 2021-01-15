@@ -3,5 +3,4 @@
 This folder is made to contain submissions of algorithms.
 This will spur me to improve my algorithm skills.
 jsn j 
-s s j
-djn aj
+s s 
