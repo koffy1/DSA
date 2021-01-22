@@ -5,4 +5,3 @@ This will spur me to improve my algorithm skills.
 jksmkm njk
 jasl jafd ahsg
 ksj olaj ihe
-kdjsk kslm
