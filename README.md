@@ -6,5 +6,3 @@ This will spur me to improve my algorithm skills.
 sj kjad k kja
 
 jsn ajsh kjjs
-
-jsdh sdhh sjd 
