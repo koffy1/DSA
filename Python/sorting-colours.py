@@ -15,3 +15,4 @@ class Solution:
                     swap = 1
             if swap == 0:
                 break
+        return nums
