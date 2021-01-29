@@ -6,4 +6,3 @@ kmakd kjsdn
 nsaj sd k
 sjjd jak  jjj
 na ksjdnk dnmj
-ask kah ied ijk
