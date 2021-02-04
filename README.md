@@ -7,4 +7,3 @@ skajn ia
 a s jkn 
 snj kjks 
 skj kjsn
-jad ij s
