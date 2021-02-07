@@ -23,4 +23,3 @@ kksdj iaildnq;o;k
 akj ks iosudo
 mja ojisdi pij
 oijrfai ioaejj[pp]
-jjash iasilsoi jhi
