@@ -5,7 +5,7 @@ class TreeNode:
         self.left = left
         self.right = right
 class Solution:
-    def inorderTraversal(self, root: TreeNode) -> List[int]:
+    def inorderTraversal(self, root: TreeNode):
         result = []
         if root:
             result = self.inorderTraversal(root.left)
