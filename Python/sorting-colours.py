@@ -3,7 +3,7 @@
 # Solution
 
 class Solution:
-    def sortColors(self, nums: List[int]) -> None:
+    def sortColors(self, nums):
         length = len(nums)
         for x in range(length):
             swap = 0

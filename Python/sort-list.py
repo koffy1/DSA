@@ -6,7 +6,7 @@
     because the time complexity for this algorithm is O(n^2)'''
 
 class Solution:
-    def sortList(self, head: ListNode) -> ListNode:
+    def sortList(self, head):
         if head is None:
             return head
         while True:
